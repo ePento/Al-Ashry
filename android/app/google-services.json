@@ -1,0 +1,160 @@
+{
+  "project_info": {
+    "project_number": "413817509461",
+    "firebase_url": "https://ashry-81eaa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ashry-81eaa",
+    "storage_bucket": "ashry-81eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413817509461:android:da44c08ac5d1eeb5c926dc",
+        "android_client_info": {
+          "package_name": "com.ashryup.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413817509461-374q6jm1fgfd2ac3gjklvmob7a82aesl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashryup.driver",
+            "certificate_hash": "4787531184ccf61f5b1c2ec4b22ad8b5f2f0ebd4"
+          }
+        },
+        {
+          "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwis_ZfNlAyihALYEfkERn_8hsZWVdYXA"
+        },
+        {
+          "current_key": "AIzaSyDlQhfFixuPpDKk6XYqu7i22gy22e-MKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413817509461-2hea5430gme95pu9tr0itgjo3q23oleq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ashryupp.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413817509461:android:85cb4c87ac4b0dedc926dc",
+        "android_client_info": {
+          "package_name": "com.ashryupp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413817509461-t49untg36r0ketth5u9e98gnonsgof7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashryupp.app",
+            "certificate_hash": "4787531184ccf61f5b1c2ec4b22ad8b5f2f0ebd4"
+          }
+        },
+        {
+          "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwis_ZfNlAyihALYEfkERn_8hsZWVdYXA"
+        },
+        {
+          "current_key": "AIzaSyDlQhfFixuPpDKk6XYqu7i22gy22e-MKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413817509461-2hea5430gme95pu9tr0itgjo3q23oleq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ashryupp.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413817509461:android:b55561312faf2510c926dc",
+        "android_client_info": {
+          "package_name": "com.ashryupz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413817509461-3gjo714en8ifr3jr3h7o28i1p7unsukm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashryupz.app",
+            "certificate_hash": "d423600cce01b2993375fa0f4925dfd73224fa79"
+          }
+        },
+        {
+          "client_id": "413817509461-vkjapf6gf6duhdav3c9v839f7a03b76h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashryupz.app",
+            "certificate_hash": "4787531184ccf61f5b1c2ec4b22ad8b5f2f0ebd4"
+          }
+        },
+        {
+          "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwis_ZfNlAyihALYEfkERn_8hsZWVdYXA"
+        },
+        {
+          "current_key": "AIzaSyDlQhfFixuPpDKk6XYqu7i22gy22e-MKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413817509461-kpt1lnpbnfnn7l7r43argil6ss83ic2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413817509461-2hea5430gme95pu9tr0itgjo3q23oleq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ashryupp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
